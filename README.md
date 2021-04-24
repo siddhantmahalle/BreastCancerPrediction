@@ -28,7 +28,7 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm which ca
 
 #Outcome
 
-![](results.png)
+![Alt text]](results.png)
 
 1.	It can be seen that as the training data size increases, SVM performs better than kNN and has more accuracy.
 
@@ -38,5 +38,4 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm which ca
 
 4.	When the value of PC=1 and K=9, we get the highest accuracy score (97.95).
 
-# Breast_Cancer_Prediction
 # BreastCancerPrediction
