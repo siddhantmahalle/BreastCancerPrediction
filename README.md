@@ -28,7 +28,7 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm which ca
 
 #Outcome
 
-![Alt text]](results.png)
+![Alt text]](result.png)
 
 1.	It can be seen that as the training data size increases, SVM performs better than kNN and has more accuracy.
 
