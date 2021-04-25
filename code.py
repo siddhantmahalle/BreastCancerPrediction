@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 
 # Importing the dataset
 
-df = pd.read_csv('cancer.csv')
+df = pd.read_csv('cancer_data.csv')
 df.replace('?',-99999,inplace=True)
 df.drop(['id'],1,inplace=True)
 
